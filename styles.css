@@ -1,0 +1,59 @@
+html {
+	margin: 75px;
+	padding: 0;
+	background: #bfccbf;
+	}
+body {
+	
+   	font-family: verdana;
+	
+	}
+p {	
+	font-family: verdana;
+	margin-top: 75px;
+	text-align: justify;
+	font-weight: 300;
+	width: 100%;
+	max-width: 1024px; 
+	margin: 50px;
+	padding: 1;
+	}
+
+header h1 {
+	font-family: 'Rock Salt';
+	font-weight: lighter;
+	text-align: center;
+	margin: 50px;
+	color: #slategray;
+	}
+
+.Ingredients {
+	font-family: verdana;
+	border: 9px LightSlateGray;
+	border-style: outset;
+	text-align: left;
+	background-color: Linen;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 50px;
+	padding-left: 50px;
+	margin:25px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+	max-width: 500px;
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
+	}
+
+.Instructions {
+	font-family: verdana;
+	text-align: left;
+	}
+
+#ingredient {
+	color: #000029;
+	{
+
+
+	
